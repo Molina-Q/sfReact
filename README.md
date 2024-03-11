@@ -1,7 +1,7 @@
 > [!WARNING]  
 > <b>symfony/asset-mapper</b> and <b>symfony/asset</b> currently create conflicts with Symfony UX React
 
-# Boilerplate code for project using Symfony UX React
+# Boilerplate code for a project using Symfony UX React
 
 ## Requirement
 - PHP
