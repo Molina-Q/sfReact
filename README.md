@@ -1,6 +1,16 @@
-Boilerplate code for project using Symfony UX React
+> [!WARNING]  
+> <b>symfony/asset-mapper</b> and <b>symfony/asset</b> currently create conflicts with Symfony UX React
 
-1. Install dependencies:
+# Boilerplate code for project using Symfony UX React
+
+## Requirement
+- PHP
+- Scoop
+- Composer
+- Symfony CLI
+- Node.js
+
+## 1. Install dependencies:
   ``` composer
 
   composer install
@@ -12,7 +22,7 @@ Boilerplate code for project using Symfony UX React
   npm install
    
   ```
-2. launch the project
+## 2. launch the project
 
  ```composer
  
