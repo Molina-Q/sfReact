@@ -1,5 +1,7 @@
 > [!WARNING]  
-> <b>symfony/asset-mapper</b> and <b>symfony/asset</b> currently create conflicts with Symfony UX React
+> <b>symfony/asset-mapper</b> and <b>symfony/asset</b> currently create conflicts with Symfony UX React.
+> 
+> I made a <a href='https://github.com/Molina-Q/sfReactVite'>Symfony project with React and Vite as frontend<a/>  i consider it a better choice than this.
 
 # Boilerplate code for a project using Symfony UX React
 
